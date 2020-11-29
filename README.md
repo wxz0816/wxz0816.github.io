@@ -10,7 +10,7 @@
       <p><b>地址：浙江省台州市椒江区</b></p>
     </td>
     <td width="25%">
-     <img src="/2020015552.jpg" width="100%"> 
+     <img src="/wxz2020015552.jpg" width="100%"> 
     </td>
   </tr>
 </table>
